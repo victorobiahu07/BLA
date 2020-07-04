@@ -1,7 +1,5 @@
 Name: Victor Obiahu
 
-Project: Target eMIP Technical Case Study # 2 (Barren Land Analysis)
-
 Prompt
 A program to solve the following word problem:
 You have a farm of 400m by 600m where coordinates of the field are from (0, 0) to (399, 599). A portion of the farm is barren, and all the barren land is in the form of rectangles. 
